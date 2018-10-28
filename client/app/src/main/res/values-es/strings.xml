@@ -189,8 +189,8 @@
         Julia Schottenhamml&lt;br/&gt;
         Richard Baumann&lt;br/&gt;
         &lt;br/&gt;
-        Traducción Español crear por Ricardo Velázquez Contreras&lt;br/&gt;
-        Traducción holandesa crear por Haroen Viaene&lt;br/&gt;
+        Traducción al español realizada por Ricardo Velázquez Contreras&lt;br/&gt;
+        Traducción al holandés realizada por Haroen Viaene&lt;br/&gt;
         &lt;br/&gt;
         ¡A programar!
     </string>
@@ -272,4 +272,5 @@
     <string name="welcome_title">Bienvenido</string>
     <string name="welcome_msg">Para empezar con tu asombroso blog, inicia sesión abajo con tu proveedor de repositorio.</string>
     <string name="welcome_import">¿Estás actualizando? No te preocupes, tendrás la opción de importar cualquier cambio antiguo cuando clones tu repositorio.</string>
+    <string name="open_with">Abrir con</string>
 </resources>
